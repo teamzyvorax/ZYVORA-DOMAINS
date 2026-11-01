@@ -1,0 +1,11 @@
+{
+  "name": "zyvora-domains-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
